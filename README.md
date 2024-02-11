@@ -1,4 +1,2 @@
-I’m Nightre
-
-大号：
-https://github.com/nightscratch
+一个正在努力学习的新手
+希望有一日我能变得很厉害！
