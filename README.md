@@ -1,2 +1,5 @@
-I like games ^w^
+我是一个 16 岁的小孩儿！喜欢游戏！！ =>
+
+I like games
+
 qq2680542645
