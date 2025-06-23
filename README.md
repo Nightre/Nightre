@@ -15,3 +15,5 @@ TODO:
 * Opengl/Webgl
 * 机器学习
 * 游戏
+
+[![My Skills](https://skillicons.dev/icons?i=blender,flask,nodejs,godot,js,ts,py,pytorch,react,vue,redis,redux,pinia,sequelize,tauri,tailwind,tensorflow,vite&theme=light)](https://skillicons.dev)
