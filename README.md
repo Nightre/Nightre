@@ -15,5 +15,3 @@
 * Opengl/Webgl
 * 机器学习
 * 游戏
-
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,jax&theme=light)](https://skillicons.dev)
