@@ -1,3 +1,9 @@
+你好啊！我是一个喜欢画画和写代码的人！这是我画的画
+
+![Uploading steam_punk.png…]()
+![Uploading summer.png…]()
+
+
 关于我：
 
 * 住在无敌之家
@@ -15,3 +21,4 @@
 * Opengl/Webgl
 * 机器学习
 * 游戏
+* 还有画画！
