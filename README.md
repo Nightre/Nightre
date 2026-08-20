@@ -19,3 +19,5 @@
 * 机器学习
 * 游戏
 * 还有画画！
+
+联系我任何事情：nightscratch1145@gmail.com
