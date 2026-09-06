@@ -1,8 +1,6 @@
-Hi there! I love drawing and writing code! Here's a piece of my artwork:
+Hi there! I love drawing and writing code!
 
-<img width="3508" height="2480" alt="steam_punk" src="https://github.com/user-attachments/assets/52ac25ec-60f2-4213-9f64-2add0a6979d6" />
-
-I'm currently 18 and preparing for university applications and my next steps.
+my site: <https://nightsc.com>
 
 ### I love:
 * OpenGL / WebGL
