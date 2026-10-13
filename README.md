@@ -8,4 +8,7 @@ my site: <https://nightsc.com>
 * Gaming
 * And drawing!
 
-Feel free to reach out to me about anything: nightscratch1145@gmail.com
+Feel free to reach out to me about anything: 
+
+* nightscratch1145@gmail.com
+* https://discord.com/users/nights0522
